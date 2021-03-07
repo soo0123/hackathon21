@@ -13,7 +13,7 @@ import urllib
 import ssl
 
 import os
-fileName = "hackathonstock-firebase-adminsdk-cekxm-23e863eaec.json"
+fileName = "JSON file holding credentials for googl cloud service goes here"
 scriptDir = os.path.dirname(os.path.realpath(__file__))
 a = os.path.join(scriptDir, fileName)
 
